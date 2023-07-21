@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Igor Demishev</h1>
+<h3 align="center">A passionate web app developer </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=head4work&label=Profile%20views&color=0e75b6&style=flat" alt="kkpan11" /> </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -25,7 +28,7 @@
   </a>
 </p>
  
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=kkpan11&show_icons=true&locale=en&layout=compact" alt="kkpan11" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=head4work&show_icons=true&locale=en&layout=compact" alt="head4work" /></p>
 <!--
 **head4work/head4work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
