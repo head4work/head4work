@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Igor Demishev</h1>
+<h1 align="center">Hi there 👋, I'm Igor </h1>
 <h3 align="center">A passionate web app developer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=head4work&label=Profile%20views&color=0e75b6&style=flat" alt="kkpan11" /> </p>
 
